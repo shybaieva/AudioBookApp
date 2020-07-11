@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1009382958571",
+    "firebase_url": "https://audioplayer-acf52.firebaseio.com",
+    "project_id": "audioplayer-acf52",
+    "storage_bucket": "audioplayer-acf52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009382958571:android:90158a214a7a03ee7825ae",
+        "android_client_info": {
+          "package_name": "net.shybaieva.audioplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009382958571-1kc1mprhlk264gcag1a7tit50vamgkoc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.shybaieva.audioplayer",
+            "certificate_hash": "cc015d61630322e8abde593d04029cebcd6c5a36"
+          }
+        },
+        {
+          "client_id": "1009382958571-pu5435qe2do4dsf4c4isbphvao6l0bna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW5VEZmndEM4RRkWlcFO4Y9dEYg0qBVqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009382958571-pu5435qe2do4dsf4c4isbphvao6l0bna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
